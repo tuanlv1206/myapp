@@ -51,4 +51,4 @@ end
 ruby "2.3.1"
 gem 'puma'
 gem 'scout_apm', '~> 2.1', '>= 2.1.22'
-gem 'rack-mini-profiler', '~> 0.10.2'
+
