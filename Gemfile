@@ -49,6 +49,5 @@ group :production do
   gem 'rails_12factor'
 end
 ruby "2.3.1"
-gem 'puma'
-gem 'scout_apm', '~> 2.1', '>= 2.1.22'
+
 
